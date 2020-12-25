@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://raw.githubusercontent.com/koji-dayo/koji-dayo/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://komarev.com/ghpvc/?username=koji-dayo&color=green)
